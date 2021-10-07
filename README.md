@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![타이틀](https://user-images.githubusercontent.com/67588757/136405743-53c3f9b2-5ca4-42b9-806f-0463f2941ae3.png)
+
 <!--
 **choihooo/choihooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
