@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:22c1c3,100:fdbb2d&height=230&width=100%&section=header&text=CHOIHO&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=230&width=100%&section=header&text=CHOIHO&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <div align="center">
   <h2>🏫 Major </h2>  IT Enginnering 💻 <br/>
@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/j_nini99/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ch.hooooo/"/></a>&nbsp
   <a href="mailto:yoonjeongin@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hochoi8621@gmail.com"/></a>
 </p>
-   <br/>
+<br/> <br/> <br/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihooo)](https://github.com/anuraghazra/github-readme-stats)
