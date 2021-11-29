@@ -7,7 +7,8 @@
 
 <div align="center">
   <h2> 👩‍💻 Activities </h2>
-  * thesis: An Impelmentation of A Crash Avoidance System based on Intergrated Sensors for Drone Auto Flight 📃
+  
+  * THESIS: An Impelmentation of A Crash Avoidance System based on Intergrated Sensors for Drone Auto Flight 📃
   
   * Development backend team of toyproject 🔗<a href="https://allforyoung.com/">[allforyong]</a>🔗, All For Young (2021.08) 
   
