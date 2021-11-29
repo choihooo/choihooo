@@ -29,5 +29,17 @@
 </p>
 <br/><br/><br/>
 
+<div align="center">
+
+## 🌈 Contact Me 🌈
+<p align="center">
+  <a href="https://www.instagram.com/j_nini99/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ch.hooooo/"/></a>&nbsp
+  <a href="mailto:yoonjeongin@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hochoi8621@gmail.com"/></a>
+</p>
+   <br/>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihooo)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
