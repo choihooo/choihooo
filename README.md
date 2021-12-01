@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=230&width=100%&section=header&text=CHOIHO&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:30cfd0,100:330867&height=230&width=100%&section=header&text=CHOIHO&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <div align="center">
   <h2>🏫 Major </h2>  IT Enginnering 💻 <br/>
