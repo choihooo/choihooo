@@ -46,6 +46,7 @@
 <p align="center">
   <a href="https://www.instagram.com/ch.hooooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ch.hooooo/"/></a>&nbsp
   <a href="mailto:hochoi8621@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hochoi8621@gmail.com"/></a>
+    <a href="https://agate-brownie-dfb.notion.site/3e7fbe5fe5794b71b960aeb1804d7ea4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://agate-brownie-dfb.notion.site/3e7fbe5fe5794b71b960aeb1804d7ea4"/></a>
 </p>
 <br/> <br/> <br/>
 
