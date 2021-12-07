@@ -48,11 +48,12 @@
   <a href="mailto:hochoi8621@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hochoi8621@gmail.com"/></a>
 </p>
 <br/> <br/> <br/>
-  
+ <!--
 ## 👀 easy to see ME 👀
    <a href="https://agate-brownie-dfb.notion.site/3e7fbe5fe5794b71b960aeb1804d7ea4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://agate-brownie-dfb.notion.site/3e7fbe5fe5794b71b960aeb1804d7ea4"/></a>
 <br/><br/><br/>
-
+-->
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihooo)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
