@@ -30,15 +30,6 @@
   <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the badge&logo=C%2B%2B&logoColor=white"/>
 </p>
 <br/><br/><br/>
-<div align="center">
-  
-  ## ❓ BOJ ❓
-  
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hochoi8621)](https://solved.ac/hochoi8621)
-  
-</div>
-<br/><br/><br/>
 
 <div align="center">
 
