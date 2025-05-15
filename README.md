@@ -49,7 +49,7 @@
 
 ## 🔗 Links
 
-- 📝 [Blog](https://howu.dev)  
+- 📝 [Blog](https://howu.run)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/%ED%98%B8-%EC%B5%9C-a3b7572b0/)  
 - 🛠 [GitHub](https://github.com/choihooo/choihooo)
 
