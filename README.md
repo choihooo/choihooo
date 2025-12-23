@@ -58,3 +58,5 @@
 ## 📬 Contact
 
 📨 hochoi8621@gmail.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihooo)](https://github.com/anuraghazra/github-readme-stats)
